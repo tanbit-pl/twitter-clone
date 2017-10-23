@@ -33,7 +33,7 @@ http://localhost:8080/api/v1/users
 
 #### Integration test
 
-[HsbcTwitterCloneApplicationTests.java](src/test/pl.tanbit.hsbctwitterclone/HsbcTwitterCloneApplicationTests.java).
+[HsbcTwitterCloneApplicationTests.java](src/test/java/pl/tanbit/hsbctwitterclone/HsbcTwitterCloneApplicationTests.java).
 
 ## WEB API
 
